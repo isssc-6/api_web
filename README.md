@@ -1,6 +1,6 @@
 # API USUÁRIOS
 
-API Web de manipulação básica de usuários.
+API Web básica para manipular usuários.
 
 ## Ferramentas
 
